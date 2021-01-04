@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+a, button {
+    transition: all .3s ease-in-out;
+}
+
+html {
+    font-size: 10px;
+}
